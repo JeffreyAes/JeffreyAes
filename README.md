@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center" >Hi there, I'm Jeffrey Aeschliman</h1>
+
+<h3 align="center">Full Stack Developer | Software Engineer | Game Developer</h3>
 
 <!--
 **JeffreyAes/JeffreyAes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
