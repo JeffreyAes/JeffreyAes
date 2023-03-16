@@ -2,6 +2,8 @@
 
 <h3 align="center">Full Stack Developer | Software Engineer | Game Developer</h3>
 
+![Full Stack Developer | Software Engineer | Game Developer](https://media.licdn.com/dms/image/D5616AQHnRpoSnnA-Gg/profile-displaybackgroundimage-shrink_350_1400/0/1675659580833?e=1684368000&v=beta&t=vuafJmPyO-WC2sXhxev2QXjfmm1sl70iK3PMaXn5Xyw))
+
 <!--
 **JeffreyAes/JeffreyAes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
